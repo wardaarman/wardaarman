@@ -51,7 +51,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Warda Arman"
-  role = "Postbac Fellow at the Laboratory of Viral Diseases"
+  role = "Postbac Fellow at Laboratory of Viral Diseases"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -60,7 +60,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "FullSizeRender - Copy.jpg "  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "wardaarman@gmail.com"
-  twitter = "https://twitter.com/wardaarman"
+ 
   
   telegram = ""
 
@@ -215,12 +215,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:wardaarman@gmail.com"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/WardaArman"
 
   [[params.social]]
     icon = "google-scholar"
@@ -230,7 +230,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "//github.com/wardaarman"
 
 
 # Navigation Links
